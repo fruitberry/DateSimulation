@@ -39,9 +39,9 @@ struct StoryBrain {
                 ),
                 
                 Story(
-                    title: "今日は誘ってくれてありがとう。",
-                    choice1: "こちらこそ。", choice1Destination: 7,
-                    choice2: "どういたしまして。", choice2Destination: 7, image: "Preparing.jpg"
+                    title: "山も海も素晴らしい眺めね。",
+                    choice1: "そうだね", choice1Destination: 7,
+                    choice2: "あ〜本当に。", choice2Destination: 7, image: "FerrisWheel.jpg"
                 ),
                 Story(
                     title: "一口どう？",
